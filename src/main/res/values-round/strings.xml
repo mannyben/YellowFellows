@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sensor Data Test</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="error_no_sensor">No sensor</string>
+
+    <string name="accelX">Accel X = %1$.2f m/s^2</string>
+    <string name="accelY">Accel Y = %1$.2f m/s^2</string>
+    <string name="accelZ">Accel Z = %1$.2f m/s^2</string>
+    <string name="gyroX">Gyro X = %1$.2f rad/s</string>
+    <string name="gyroY">Gyro Y = %1$.2f rad/s</string>
+    <string name="gyroZ">Gyro Z = %1$.2f rad/s</string>
+    <string name="magneticX">Magnetic X = %1$.2f uT</string>
+    <string name="magneticY">Magnetic Y = %1$.2f uT</string>
+    <string name="magneticZ">Magnetic Z = %1$.2f uT</string>
+</resources>
