@@ -1,18 +1,15 @@
 <resources>
-    <string name="app_name">Sensor Data Test</string>
-    <!--
-    This string is used for square devices and overridden by hello_world in
-    values-round/strings.xml for round devices.
-    -->
+    <string name="app_name">SensorSurveyWear</string>
     <string name="error_no_sensor">No sensor</string>
-
-    <string name="accelX">Accel X = %1$.2f m/s^2</string>
-    <string name="accelY">Accel Y = %1$.2f m/s^2</string>
-    <string name="accelZ">Accel Z = %1$.2f m/s^2</string>
-    <string name="gyroX">Gyro X = %1$.2f rad/s</string>
-    <string name="gyroY">Gyro Y = %1$.2f rad/s</string>
-    <string name="gyroZ">Gyro Z = %1$.2f rad/s</string>
-    <string name="magneticX">Magnetic X = %1$.2f uT</string>
-    <string name="magneticY">Magnetic Y = %1$.2f uT</string>
-    <string name="magneticZ">Magnetic Z = %1$.2f uT</string>
+    <string name="label_accel_y">Accel_Y: %1$.2f</string>
+    <string name="label_accel_x">Accel_X: %1$.2f</string>
+    <string name="label_accel_z">Accel_Z: %1$.2f</string>
+    <string name="label_gyro_x">Azimuth: %1$.2f</string>
+    <string name="label_gyro_y">Pitch: %1$.2f</string>
+    <string name="label_gyro_z">Roll: %1$.2f</string>
+    <string name="label_magneto">Magneto Sensor: %1$.2f</string>
+    <string name="label_magnet_x">Magnet_X: %1$.2f</string>
+    <string name="label_magnet_y">Magnet_Y: %1$.2f</string>
+    <string name="label_magnet_z">Magnet_Z: %1$.2f</string>
+    <string name="hello_world">Hello Square World!</string>
 </resources>
