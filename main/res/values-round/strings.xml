@@ -1,15 +1,3 @@
 <resources>
-    <string name="app_name">SensorSurvey</string>
-    <string name="error_no_sensor">No sensor</string>
-    <string name="label_accel_y">Accel_Y: %1$.2f</string>
-    <string name="label_accel_x">Accel_X: %1$.2f</string>
-    <string name="label_accel_z">Accel_Z: %1$.2f</string>
-    <string name="label_gyro_x">Azimuth: %1$.2f</string>
-    <string name="label_gyro_y">Pitch: %1$.2f</string>
-    <string name="label_gyro_z">Roll: %1$.2f</string>
-    <string name="label_magneto">Magneto Sensor: %1$.2f</string>
-    <string name="label_magnet_x">Magnet_X: %1$.2f</string>
-    <string name="label_magnet_y">Magnet_Y: %1$.2f</string>
-    <string name="label_magnet_z">Magnet_Z: %1$.2f</string>
-
+    <string name="hello_world">Hello Round World!</string>
 </resources>
